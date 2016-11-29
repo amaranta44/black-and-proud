@@ -7,9 +7,9 @@
 * любое приложение из GooglePlay на безупречность
 
 ## Что пофиксить?
-свои баги http://ru.xored.com/2014/06/30/readiness-threshold/#more-395
-носки
-ножку стола
-курсач
-чужие баги https://github.com
-карбюратор
+* свои баги http://ru.xored.com/2014/06/30/readiness-threshold/#more-395
+* носки
+* ножку стола
+* курсач
+* чужие баги https://github.com
+* карбюратор
